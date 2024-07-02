@@ -1,0 +1,4 @@
+.env
+langchain_stuff/credentials.json
+langchain_stuff/token.json
+langchain_env/
